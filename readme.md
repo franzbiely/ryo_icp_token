@@ -1,5 +1,8 @@
 # Ryori Token for Eat-to-Earn $RYO (ICRC1)
 
+### Ledger ID : rtrsr-mqaaa-aaaaj-azxjq-cai
+### Index Canister Id : rgwd4-nyaaa-aaaaj-azxka-cai
+
 ## Overview  
 The Ryori Token project is designed to create and implement a **fungible token standard** using blockchain and distributed ledger technology. Built with **Motoko**, the project is tailored to work seamlessly with the **DFINITY Internet Computer** platform.  
 
