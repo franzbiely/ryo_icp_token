@@ -10,7 +10,7 @@
       "type": "custom",
       "candid": "src/icrc1_index/index.did",
       "wasm": "src/icrc1_index/index.wasm.gz",
-      "init_arg": "(opt variant { Init = record { ledger_id = principal \"zozfm-uaaaa-aaaaj-qnfkq-cai\" } })"
+      "init_arg": "(opt variant { Init = record { ledger_id = principal \"bkyz2-fmaaa-aaaaa-qaaaq-cai\" } })"
     }
   },
   "defaults": {
